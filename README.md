@@ -120,8 +120,6 @@ PostgreSQL
 #### Recursos e Diferenciais
 *Dizer quais são os recursos da Plataforma*
 
-- Documentação da Api, Novas rotas, páginas, README
-
 <br>
 <br>
 <br>
@@ -130,19 +128,6 @@ PostgreSQL
 - Acesse nosso Changelog.md
 - Acesse nosso Contributing.md
 - Acesse nosso CodeOfCoduct.md
-
-<br>
-<br>
-
-#### Bibliotecas interessantes
-- *i8-icon, typescript, underscore, react types, lodash*
-- *para configuração: eslint, babel, webpack, dotenv*
-- *para autenticação/autorização: bcrypt, JWT, helmet, auth0, passport, reCAPTCHA*
-- *para api: axios e express*
-- *para rotas: Reach-Router ou route5*
-- *para testes: gulp, jest, artillery, faker, nodemon*
-- *para renderizar no lado server-side: next-js*
-- *para banco de dados: pg and typeorm or prisma*
 
 <br>
 <br>
