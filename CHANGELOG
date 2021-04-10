@@ -1,3 +1,18 @@
-- Documentação da api
-- Reusabilidade, responsividade de código
+# Changelog
+Todas as notáveis alterações para este projeto podem ser documentadas neste arquivo.
+
+O formato é baseado sobre [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+e este projeto adiciona [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.0] - 2021-04-10
+
+### Adição
 - Novas rotas, páginas
+- Reusabilidade, responsividade de código
+- Documentação da api
+
+### Alteração
+- Rotas
+- Páginas
+
+[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
