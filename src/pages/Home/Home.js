@@ -225,7 +225,7 @@ function Home() {
         <Primeira>
          
           <Texto>
-            <h1>Comece um trabalho voluntário</h1>
+            <h1>Comece um trabalho escravo</h1>
             <p>Encontre formas de se engajar ativamente!</p>
             <p>A plataforma da Global.org existe para conectar organizações sem fins lucrativos e pessoas que desejam apoiar suas causas.</p>
             <button>Quero Engajar!</button>
