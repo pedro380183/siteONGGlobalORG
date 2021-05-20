@@ -1,12 +1,11 @@
-import styled from 'styled-components';
 import { Link } from 'react-router-dom'
-import { yt, linkdn, insta, wpp, tt, fb, logo, friends, searching, service, writing, banner_image, Feminismo, Educacao, Meio_Ambiente, PCDs, arrow, arrow_down, mundo } from './Home_imagens';
+import { yt, linkdn, insta, wpp, tt, fb, logo, friends, searching, service, writing, banner_image, Feminismo, Educacao, Meio_Ambiente, PCDs, mundo } from './Home_imagens';
 import { img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12 } from './Home_imagens';
 import SearchBar from '../../components/SearchBar/SearchBar';
 import Select from '../../components/Select/Select';
 import Card from '../../components/Card/Card';
 import Botao from '../../components/BotaoVerVagas/Botao';
-import { Estilos, SocialMedia, Primeira, Segunda, Terceira, Quarta, Quinta, Texto, Categorias, CardsWrapper, Footer } from './styles.js';
+import { SocialMedia, Primeira, Segunda, Terceira, Quarta, Quinta, Texto, Categorias, CardsWrapper, Footer } from './styles.js';
 
 const dados_redes = [yt, linkdn, insta, wpp, tt, fb];
 
