@@ -78,7 +78,7 @@ export const Primeira = styled.section`
   }
 `;
 
-const Texto = styled.div`
+export const Texto = styled.div`
   color: ${Estilos.cores.brancoAzul};
   height: auto !important;
   width: 40vw;
