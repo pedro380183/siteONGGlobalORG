@@ -6,6 +6,7 @@ import SearchBar from '../../components/SearchBar/SearchBar';
 import Select from '../../components/Select/Select';
 import Card from '../../components/Card/Card';
 import Botao from '../../components/BotaoVerVagas/Botao';
+import { Estilos, SocialMedia, Primeira, Segunda, Terceira, Quarta, Quinta, Texto, Categorias, CardsWrapper, Footer } from './styles.js';
 
 const dados_redes = [yt, linkdn, insta, wpp, tt, fb];
 
