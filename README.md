@@ -11,7 +11,7 @@ A Plataforma Global ORG foi desenvolvida através do [Create React App](https://
 #### Para baixar, instalar, iniciar
 
 ```
-git clone https://github.com/GrupoCPB/globalorg-web-frontend.git && cd globalorg-web-frontend.git && npm install && npm start
+git clone https://github.com/GrupoCPB/globalorg-web-frontend.git && cd globalorg-web-frontend && npm install && npm start
 ```
 
 *Após essa linha de comando, acesse esse endereço [http://localhost:3000](http://localhost:3000) para visualizar a interface gráfica em seu navegador.* 
