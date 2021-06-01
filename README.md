@@ -8,6 +8,11 @@ A Plataforma Global ORG foi desenvolvida através do [Create React App](https://
 
 <br>
 
+## Requisitos Iniciais
+
+Para execução na maquina é necessario o [nodejs] e o [npm], a instalção dos dois estão anexadas no link abaixo:
+ [nodejs.org](https://nodejs.org/en/)
+
 #### Para baixar, instalar, iniciar
 
 ```
