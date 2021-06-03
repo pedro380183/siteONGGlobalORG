@@ -2,7 +2,7 @@
 
 ### Api Rest 
 ```
-git clone https://github.com/pedro380183/global.org3.git && cd global.org3/api/ && npm install && npm start
+git clone https://github.com/GrupoCPB/siteongglobalorg.git && cd siteongglobalorg/api/ && npm install && npm start
 ```
 
 ## Use o rest api 
